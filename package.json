@@ -1,0 +1,28 @@
+{
+  "name": "npa-chat-server",
+  "version": "1.0.0",
+  "description": "A simple chat app server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaspayot/npa-chat-server.git"
+  },
+  "author": "Nicolas Payot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nicolaspayot/npa-chat-server/issues"
+  },
+  "homepage": "https://github.com/nicolaspayot/npa-chat-server#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cors": "^2.8.1",
+    "express": "^4.15.2",
+    "lodash.isundefined": "^3.0.1",
+    "socket.io": "^1.7.3",
+    "uuid": "^3.0.1"
+  }
+}
