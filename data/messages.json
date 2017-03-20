@@ -1,0 +1,47 @@
+[
+  {
+    "id": "mid1",
+    "content": "The man who passes the sentence should swing the sword.",
+    "timestamp": "2017-04-01T00:00:00Z",
+    "sender": {
+      "nickname": "eddard",
+      "avatar": "img/eddard.png"
+    }
+  },
+  {
+    "id": "mid2",
+    "content": "The next time you raise a hand to me will be the last time you have hands!",
+    "timestamp": "2017-04-01T01:00:00Z",
+    "sender": {
+      "nickname": "khaleesi",
+      "avatar": "img/khaleesi.png"
+    }
+  },
+  {
+    "id": "mid3",
+    "content": "When you play the game of thrones, you win or you die.",
+    "timestamp": "2017-04-02T00:00:00Z",
+    "sender": {
+      "nickname": "cersei",
+      "avatar": "img/cersei.png"
+    }
+  },
+  {
+    "id": "mid4",
+    "content": "The mad king did as he liked, has your uncle Jaime ever told you what happened to him?",
+    "timestamp": "2017-04-03T00:00:00Z",
+    "sender": {
+      "nickname": "tyrion",
+      "avatar": "img/tyrion.png"
+    }
+  },
+  {
+    "id": "mid5",
+    "content": "A girl gives a man his own name?",
+    "timestamp": "2017-04-04T00:00:00Z",
+    "sender": {
+      "nickname": "jaqenhghar",
+      "avatar": "img/jaqenhghar.png"
+    }
+  }
+]
